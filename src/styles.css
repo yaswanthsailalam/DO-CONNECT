@@ -1,0 +1,15 @@
+.yes{
+    position: relative;
+    left: 75%;
+}
+.foot{
+    background-color: rgba(0, 191, 255, 0.66);
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    padding-top: 1%;
+    color: red;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
